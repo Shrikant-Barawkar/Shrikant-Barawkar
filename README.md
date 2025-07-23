@@ -14,7 +14,7 @@ I'm a passionate developer with professional experience in **C# (Windows Forms)*
 ---
 
 ### 🚀 Projects I'm Proud Of
-- **🛰 Precise Orbit Determination in Low Earth Orbit
+-   🛰 Precise Orbit Determination in Low Earth Orbit
   - Improvement of force models for position determination
   - Integration of position determination with orbit propagator to develop precise orbit propagator
 
